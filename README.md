@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou o Thiago Cardoso 
+## Olá! Eu sou o Thiago Cardoso 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-cardoso-21b101133/)
 
