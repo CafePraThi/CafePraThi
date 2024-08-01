@@ -29,7 +29,6 @@
 <h2 align="center">🔥 My Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cafeprathi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=cafeprathi&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&order=1" height="150" alt="stats graph" />
 </div>
 
 <h2 align="center">📫 Connect with Me</h2>
