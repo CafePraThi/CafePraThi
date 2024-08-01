@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/thiago-cardoso-21b101133/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-    <a href="https://yourwebsite.com" target="_blank">
+  <a href="[https://yourwebsite.com](https://cafeprathi.com/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo" />
   </a>
 </div>
